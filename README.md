@@ -1,5 +1,5 @@
 🎬 **Movie Recommendation System**
-📖** About**
+📖**About**
 
 This project focuses on analyzing movie ratings data to extract insights that support the development of recommendation systems. By combining user rating behavior with movie metadata, the analysis highlights both critically appreciated movies and those with high audience engagement.
 
@@ -15,7 +15,7 @@ Identifies popular movies based on rating frequency
 
 Visualizes trends to support recommendation insights
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Python
 
@@ -33,7 +33,7 @@ Ratings Dataset: Contains user ratings and timestamps
 
 These datasets are merged using a unique movie identifier to enable joint analysis.
 
-🔍** Analysis Approach**
+🔍**Analysis Approach**
 
 Load and inspect datasets
 
@@ -49,7 +49,7 @@ Popularity by number of ratings
 
 Visualize key findings
 
-📊** Key Insights**
+📊**Key Insights**
 
 Popular movies are not always the highest-rated
 
@@ -57,7 +57,7 @@ User engagement plays a critical role in recommendation systems
 
 Aggregated rating metrics help surface meaningful trends
 
-🚀** Project Status**
+🚀**Project Status**
 
 ✔ Exploratory Data Analysis completed
 🔜 Can be extended to:
